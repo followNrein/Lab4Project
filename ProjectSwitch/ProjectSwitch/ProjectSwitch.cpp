@@ -24,7 +24,7 @@ int main()
 		{
 		case 1:
 		{
-			cout << "Функция в разработке!" << endl; 
+			cout << a << "+" << b << " = " << funcsplus(a, b) << endl; // вывод результата работы функции сложения
 			break;
 		}
 		case 2: 
