@@ -34,7 +34,7 @@ int main()
 		}
 		case 3: 
 		{
-			cout << "Функция в разработке!" << endl; 
+			cout << a << "*" << b << " = " << funcsmult(a, b) << endl; // добавил функцию умножения!
 			break;
 
 		}
