@@ -29,7 +29,7 @@ int main()
 		}
 		case 2: 
 		{
-			cout << "Функция в разработке!" << endl;
+			cout << a << "-" << b << " = " << funcsminus(a, b) << endl; // вывод результата работы функции сложения
 			break;
 		}
 		case 3: 
