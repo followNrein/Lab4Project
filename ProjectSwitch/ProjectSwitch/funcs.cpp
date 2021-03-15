@@ -9,3 +9,11 @@ double funcsminus(double a, double b)
 {
 	return a - b; // функция возвращает результат вычитания a и b
 }
+double funcsmult(double a, double b)
+{
+	return a * b;
+}
+double funcsdiv(double a, double b)
+{
+	return a / b;
+}
