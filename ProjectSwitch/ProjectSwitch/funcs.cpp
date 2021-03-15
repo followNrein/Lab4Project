@@ -13,3 +13,7 @@ double funcsmult(double a, double b)
 {
 	return a * b;
 }
+double funcsdiv(double a, double b)
+{
+	return a / b;
+}
