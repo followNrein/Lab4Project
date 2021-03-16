@@ -1,5 +1,5 @@
 // Lab4ProjectSwitch.cpp: определяет точку входа для консольного приложения.
-// Готовимся к релизу.
+// Released 1.0
 #include "stdafx.h"
 #include "funcs.h"
 #include <iostream>
